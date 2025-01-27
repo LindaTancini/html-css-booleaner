@@ -12,14 +12,30 @@
     
 }
 
+h1 {
+    width: 1000px;
+}
+
 #scritto-da {
     color: grey;
+    margin: 0;
 }
 
 #the-booleaner {
     color: lightblue;
+    margin: 0;
 }
 
 time {
     color: grey;
+}
+
+#firstphoto {
+    font-size: 13px;
+    margin: 0;
+}
+
+#secondphoto {
+    font-size: 13px;
+    margin: 0;
 }
