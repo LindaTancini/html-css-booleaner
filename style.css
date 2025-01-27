@@ -1,0 +1,13 @@
+#contenuto-logo {
+    line-height: 100px;
+    background-size:25%;
+    height: 100px;
+    background-color: lightskyblue;
+    background-image: url(img/pattern.png)
+}
+
+#logo {
+    height: 50px;
+    vertical-align: middle;
+    
+}
