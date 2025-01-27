@@ -1,3 +1,7 @@
+body {
+    font-family: serif;
+}
+
 #contenuto-logo {
     line-height: 100px;
     background-size:25%;
@@ -49,6 +53,7 @@ thead {
 table {
     border-collapse: collapse ;
     background-color: lightskyblue;
+    width:50%;
 }
 
 tr {
@@ -57,4 +62,33 @@ tr {
 
 #colonna-bianca {
     background-color: white;
+}
+
+#footer-p {
+    color: grey;
+    font-weight: bold;
+}
+
+.white-text {
+    color: white;
+}
+
+#monitor {
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 180px;
+    width: 210px;
+    margin: 0;
+}
+
+#grafico {
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 180px;
+    width: 210px;
+    margin: 0;
 }
