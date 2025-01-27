@@ -9,7 +9,6 @@
 #logo {
     height: 50px;
     vertical-align: middle;
-    
 }
 
 h1 {
@@ -19,11 +18,13 @@ h1 {
 #scritto-da {
     color: grey;
     margin: 0;
+    font-weight: bold;
 }
 
 #the-booleaner {
     color: lightblue;
     margin: 0;
+    font-weight: bold;
 }
 
 time {
@@ -38,4 +39,22 @@ time {
 #secondphoto {
     font-size: 13px;
     margin: 0;
+}
+
+thead {
+    color: white;
+    background-color: rgb(76, 158, 209);
+}
+
+table {
+    border-collapse: collapse ;
+    background-color: lightskyblue;
+}
+
+tr {
+ text-align: left;
+}
+
+#colonna-bianca {
+    background-color: white;
 }
